@@ -1,0 +1,20 @@
+#.gitignore
+
+# Node.js
+/frontend/node_modules
+/frontend/build
+
+# Python
+/backend/venv
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Virtual Environment
+.venv/
+cohort_env/
+
+.vscode/
+
+# Environment Variables
+/backend/.env
